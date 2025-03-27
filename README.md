@@ -369,6 +369,11 @@ Week 7	Reporting, metrics, and project documentation
 
 <img width="368" alt="image" src="https://github.com/user-attachments/assets/3883514e-8cb3-4b21-9d7f-c74378bde0d0" />
 
+**Course Completion Badge**
+
+[AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20250327-27-ekvp8p.pdf](https://github.com/user-attachments/files/19480044/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20250327-27-ekvp8p.pdf)
+
+
 
 
 
